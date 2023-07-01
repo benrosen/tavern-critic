@@ -1,6 +1,8 @@
 ## Tavern Critic
 By Ben Rosen | brosen.itch.io
 
+![Tavern critic](critic.webp)
+
 A solo roleplaying game about writing Yelp reviews for fantasy taverns.
 
 ### BEFORE YOU PLAY, YOU NEED
