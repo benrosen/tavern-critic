@@ -111,7 +111,7 @@ This is the premise for your visit to the tavern.
 
 ### NAME THE TAVERN
 
-To name the tavern, roll for the <a href="#first-half">FIRST HALF</a> of the name and the <a href="#second-half">SECOND HALF</a> of the name.
+To name the tavern, roll 2d6 for the <a href="#first-half">FIRST HALF</a> of the name and another 2d6 for the <a href="#second-half">SECOND HALF</a> of the name.
 
 Use the results to fill in the blanks in the following tavern name:
 
